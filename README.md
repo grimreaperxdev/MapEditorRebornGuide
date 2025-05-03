@@ -4,4 +4,4 @@ To spawn a schematic, you must have a schematic in ```C:\Users\Acer\AppData\Roam
 
 # Who to move a schematic?
 
-To move a schematic you have to select it, with a toolgun or otherwise by doing the command ```mp sel```, after doing this you can move it by doing ```mp pos grab" or otherwise by doing "mp pos add"
+To move a schematic you have to select it, with a toolgun or otherwise by doing the command ```mp sel```, after doing this you can move it by doing ```mp pos grab``` or otherwise by doing ```mp pos add```. 
