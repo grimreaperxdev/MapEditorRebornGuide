@@ -8,4 +8,8 @@ To move a schematic you have to select it, with a toolgun or otherwise by doing 
 
 # Who to delete a schematic?
 
-To remove a schematic you have to select it, to select it you need the toolgun, the toolgun can be equipped by doing ```mp tg```, once you do this, take the toolgun, click the f button until you get to delete mode and delete and shoot the schematic, if it doesn't work then do ```mp sel``` and then ```mp del```.
+To remove a schematic you have to select it, to select it you need the toolgun, the toolgun can be equipped by doing ```mp tg```, once you do this, take the toolgun, click the f button until you get to delete mode and delete and shoot the schematic, if it doesn't work then do ```mp sel``` and then ```mp del``` to the schematic
+
+# How can I change the rotation of a schematic?
+
+to rotate a schematic, you have to select the schematic, looking at it and doing ```mp sel```, once you do this you have to do the command ```mp rot set (X-Coordinate) (Y-Coordinate) (Z-Coordinate)```
