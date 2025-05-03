@@ -19,3 +19,8 @@ to rotate a schematic, you have to select the schematic, looking at it and doing
 1) ``` mp rot set 0 90 0 ```
 2) ``` mp cr LuckyBlock ```
 3) ``` mp rot set 90 180 46 ```
+
+# How do I find the list of schematics in the game?
+
+To find the list of schematics in the game you have to do the command ```mp list```, by doing this command, you will be able to view all the schematics in the dedicated server
+
