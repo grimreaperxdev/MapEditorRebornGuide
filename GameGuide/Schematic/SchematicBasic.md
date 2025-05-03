@@ -13,3 +13,9 @@ To remove a schematic you have to select it, to select it you need the toolgun, 
 # How can I change the rotation of a schematic?
 
 to rotate a schematic, you have to select the schematic, looking at it and doing ```mp sel```, once you do this you have to do the command ```mp rot set (X-Coordinate) (Y-Coordinate) (Z-Coordinate)```
+
+## Example
+
+1) ``` mp rot set 0 90 0 ```
+2) ``` mp cr LuckyBlock ```
+3) ``` mp rot set 90 180 46 ```
