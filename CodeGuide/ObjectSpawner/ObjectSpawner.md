@@ -20,7 +20,7 @@ You can define a schematic by writing ```private SchematicObject? (InstanceName)
 
 # How do I attach a schematic to a player?
 
-to spawn a schematic on a player you need to have the player instance, to do this you will have to do it in your private void, for example, private void SpawnSchematic(Player player), once you have done this, you will have to write ``` _schematic.gameObject.transform.parent = player.GameObject.transform;```, this code attaches the GameObjectDefined to the player gameobject.
+to spawn a schematic on a player you need to have the player instance, to do this you will have to do it in your private void, for example, private void SpawnSchematic(Player player), once you have done this, you will have to write ``` (IstanceName).gameObject.transform.parent = player.GameObject.transform;```, this code attaches the GameObjectDefined to the player gameobject.
 
 # How to position the schematic at specific points of the player?
 
