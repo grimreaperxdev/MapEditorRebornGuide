@@ -7,4 +7,7 @@
     <img src="https://img.shields.io/discord/947849283514814486?style=for-the-badge&logo=discord" alt="Chat on Discord">
 </a>    
 
+# Information
+
+
 </div>
