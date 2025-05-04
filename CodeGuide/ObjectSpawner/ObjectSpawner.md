@@ -22,13 +22,13 @@ You can define a schematic by writing ```private SchematicObject? (InstanceName)
 
 to spawn a schematic on a player you need to have the player instance, to do this you will have to do it in your private void, for example, private void SpawnSchematic(Player player), once you have done this, you will have to write ``` _schematic.gameObject.transform.parent = player.GameObject.transform;```, this code attaches the GameObjectDefined to the player gameobject.
 
-# How to make the player position equal to the schematic?
+# How to position the schematic at specific points of the player?
 
-To have the same position of the player as the one in the schematic, you have to do ```InstanceName.GameObject.transform.localposition = Vector3.Zero + new vector3(PositionX, PositionY, PositionZ);, 
+To position the schematic in a specific point of the player you have to do```InstanceName.GameObject.transform.localposition = Vector3.Zero + new vector3(PositionX, PositionY, PositionZ);, 
 
 ## Example
 
-_schematic.GameObject.Trasform.LocalPosition = Vector3.zero + new Vector3(0f, 0f, 0f);
+_schematic.GameObject.Transform.LocalPosition = Vector3.zero + new Vector3(0f, 0f, 0f);
 
 
 # How do I rotate my schematic using code?
