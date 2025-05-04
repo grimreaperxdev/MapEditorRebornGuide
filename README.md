@@ -1,5 +1,5 @@
 <h1 align="center">MapEditorReborn Guide </h1>
-<h3 align="center">a href=plugin allowing to spawn and modify various objects.</h3>
+<h3 align="center">A guide that will help you learn MapEditorReborn, in Code, Game and Unity side.</h3>
 <div align="center">
     
 <img src="https://img.shields.io/github/downloads/Michal78900/MapEditorReborn/total?style=for-the-badge&logo=github" alt="Downloads">
